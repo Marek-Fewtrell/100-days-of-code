@@ -2,6 +2,14 @@
 
 ### Day 1: January 6th, 2017
 
+**Today's Progress**: Improved the Sudoku Helper Webpage. Improved the suggestion functionality.
+
+**Thoughts**: I had to remember how to do some Javascript but otherwise I am happy with the result. I am happy the you are present all the numbers and any invalid numbers are greyed out.
+
+**Link to work**: [Sudoku Helper Commit](https://github.com/Marek-Fewtrell/Sudoku-Helper/commit/c44c0c4d858affe1559e867268847c112ab3da39)
+
+### Day 2: January 7th, 2017
+
 **Today's Progress**: 
 
 **Thoughts**: 
