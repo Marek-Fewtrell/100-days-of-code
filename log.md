@@ -2,11 +2,11 @@
 
 ### Day 2: January 8th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started a project called Youtube Soundboard. It's a proof of concept at the moment. Using the Youtube API and JQuery.
 
-**Thoughts**: 
+**Thoughts**: Was a bit rusty with JQuery but it is easy to pick up. The Youtube API seems to be pretty easy to use. It's looking good.
 
-**Link to work**: 
+**Link to work**: [Tweet about it](https://twitter.com/MarekFewtrell/status/818056808094801920)
 
 ### Day null: January 7th, 2017
 
