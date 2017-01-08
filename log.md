@@ -8,9 +8,9 @@
 
 **Link to work**: 
 
-### Day : January 7th, 2017
+### Day null: January 7th, 2017
 
-Skipped.
+Skipped. Climbed a mountain.
 
 ### Day 1: January 6th, 2017
 
