@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 9th, 2017
+
+**Today's Progress**: Continued working on my Youtube SOundbard. It can now save and play youtube videos
+
+**Thoughts**: Getting all the basics working is a bit tedious but I got through it. I believe I got everything there.
+
+**Link to work**: [Tweet about it](https://twitter.com/MarekFewtrell/status/818430994671812608)
+
 ### Day 2: January 8th, 2017
 
 **Today's Progress**: Started a project called Youtube Soundboard. It's a proof of concept at the moment. Using the Youtube API and JQuery.
