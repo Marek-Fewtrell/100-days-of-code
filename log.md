@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 10th, 2017
+
+**Today's Progress**: Continued working on my Youtube SOundbard. Started to incorporate search into it by using the Youtube Data API.
+
+**Thoughts**: The api is really easy to use. I should style the webpage properly. That can a job for tomorrow.
+
+**Link to work**: [Tweet about it](https://twitter.com/MarekFewtrell/status/818786977696751616)
+
 ### Day 3: January 9th, 2017
 
 **Today's Progress**: Continued working on my Youtube SOundbard. It can now save and play youtube videos
