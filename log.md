@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 11th, 2017
+
+**Today's Progress**: Continued working on Youtube SOundbard. Completed the search functionality. Can change pages of the search results to view more. Additionally, added the project to github.
+
+**Thoughts**: I got stuck for a little while and added a number of console.logs to help debug. Turns out I forgot to add the pageToken variable to the search request. So it wasn't sending it to change the page.
+
+**Link to work**: [Youtube Soundboard Github project](https://github.com/Marek-Fewtrell/Youtube-Soundboard)
+
 ### Day 4: January 10th, 2017
 
 **Today's Progress**: Continued working on my Youtube SOundbard. Started to incorporate search into it by using the Youtube Data API.
