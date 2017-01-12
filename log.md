@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 12th, 2017
+
+**Today's Progress**: Continued working on Youtube SOundbard. Added Bootstrap to the project and added some basic styling.
+
+**Thoughts**: I Chose bootstrap because it was nice and easy to make a responsive design. This project needs to be usable on a mobile as well. It's nice to have finally styled the page into something more usable.
+
+**Link to work**: [Youtube Soundboard Github project](https://github.com/Marek-Fewtrell/Youtube-Soundboard)
+
 ### Day 5: January 11th, 2017
 
 **Today's Progress**: Continued working on Youtube SOundbard. Completed the search functionality. Can change pages of the search results to view more. Additionally, added the project to github.
