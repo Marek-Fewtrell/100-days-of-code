@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 13th, 2017
+
+**Today's Progress**: Continued working on Youtube SOundbard. Started to include Google Sheets API for use as the backend.
+
+**Thoughts**: I've already used Google Sheets API for a previous application so I have some previous knowledge.
+
+**Link to work**: [Tweet about it](https://twitter.com/MarekFewtrell/status/819913913869344768)
+
 ### Day 6: January 12th, 2017
 
 **Today's Progress**: Continued working on Youtube SOundbard. Added Bootstrap to the project and added some basic styling.
