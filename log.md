@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 14th, 2017
+
+**Today's Progress**: Continued working on Youtube SOundbard and adding in the Sheets API functionality.
+
+**Thoughts**: Will eventually get it all hooked up with the api. It's slow progress planning it out and doing small bits at a time.
+
+**Link to work**: None.
+
 ### Day 7: January 13th, 2017
 
 **Today's Progress**: Continued working on Youtube SOundbard. Started to include Google Sheets API for use as the backend.
