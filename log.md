@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 15th, 2017
+
+**Today's Progress**: Fully integrated Google Sheets API into the Youtube SoundBoard. All CRUD operations possible.
+
+**Thoughts**: Took a while and a bit of effort but I have successfully added Sheets API to the project. It now acts as my backend to store data. While doing it, I found the documentation for the authorisation of Google services to be kind of confusing. The samples and guides didn't match up completely. I mgiht just need to spend some more time with it. It didn't impact my progress significantly.
+
+**Link to work**: [Github commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/008513fb07ba167bf7dcf08f8c3f398115708013).
+
 ### Day 8: January 14th, 2017
 
 **Today's Progress**: Continued working on Youtube SOundbard and adding in the Sheets API functionality.
