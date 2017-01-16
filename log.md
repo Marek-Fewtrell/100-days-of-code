@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 16th, 2017
+
+**Today's Progress**: Cleaned up the Youtube Soundboard files. The code isn't as clutteredas much anymore. Some horrendous code was replaced with good code. Everything runs smoothly now.
+
+**Thoughts**: The code was in need of some clean up to remove old debugging console logs. Other bits of code just needed to be redone properly. Will need to continue improving the code. Might even add comments to it.
+
+**Link to work**: [Github commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/5e961cbbd66e16600d5512cb06f7df8ea5138143).
+
 ### Day 9: January 15th, 2017
 
 **Today's Progress**: Fully integrated Google Sheets API into the Youtube SoundBoard. All CRUD operations possible.
