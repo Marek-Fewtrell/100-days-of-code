@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 17th, 2017
+
+**Today's Progress**: Incorporated the Google Drive API in Youtube Soundboard. It now finds the correct file for the logged in user.
+
+**Thoughts**: It'll search for the file named 'Youtube Soundboard' in the users drive. Will need to add more functionality later, like when the file doesn't exist. Didn't accomplish much today, went to Brisbane Lifeline Bookfest.
+
+**Link to work**: [Github commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/fd07898088ab717fbe01658c50efaaa14dc9c89b).
+
 ### Day 10: January 16th, 2017
 
 **Today's Progress**: Cleaned up the Youtube Soundboard files. The code isn't as clutteredas much anymore. Some horrendous code was replaced with good code. Everything runs smoothly now.
