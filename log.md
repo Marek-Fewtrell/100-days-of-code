@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 18th, 2017
+
+**Today's Progress**: COntinued with Youtube Soundboard. It now searches the users Google Drive for any spreadsheets that the user can select. Additionally, can create a new spreadsheet. Created a modal screen for these operations and settings.
+
+**Thoughts**: The Sheets API can actually create a new spreadsheet easily. Only need the Drive API to search for existing files. I will need to add error handling soon. This project has come together nicely and is really useable with a lot of features.
+
+**Link to work**: [Github commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/3d1e5b94afb796af59069865333727d6d55bdde1).
+
 ### Day 11: January 17th, 2017
 
 **Today's Progress**: Incorporated the Google Drive API in Youtube Soundboard. It now finds the correct file for the logged in user.
