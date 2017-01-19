@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 19th, 2017
+
+**Today's Progress**: COntinued with Youtube Soundboard. Adding in error checking for the api calls.
+
+**Thoughts**: I am finding the documentation for the api is kinda vague about the error handling part. It doesn't give a solid example. I just need to decipher it. I didn't get a lot done today otherwise, I ran out of time because I didn't do it during the day.
+
+**Link to work**: [Twitter Thing](https://twitter.com/MarekFewtrell/status/822095217268396033).
+
 ### Day 12: January 18th, 2017
 
 **Today's Progress**: COntinued with Youtube Soundboard. It now searches the users Google Drive for any spreadsheets that the user can select. Additionally, can create a new spreadsheet. Created a modal screen for these operations and settings.
