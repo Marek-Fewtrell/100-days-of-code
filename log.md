@@ -2,6 +2,14 @@
 
 ### Day 13: January 19th, 2017
 
+**Today's Progress**: Continued adding error handling to the API calls.
+
+**Thoughts**: It has been kinda difficult working out the error handling for the API calls. But I think I understand it all properly now. Had trouble with the authorisation api stuff, but I moved onto the first api call used, the Drive API. It is straightforward to add the handling now.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/0cece713c92aef6263968702dec4b6ef8d817f59).
+
+### Day 13: January 19th, 2017
+
 **Today's Progress**: COntinued with Youtube Soundboard. Adding in error checking for the api calls.
 
 **Thoughts**: I am finding the documentation for the api is kinda vague about the error handling part. It doesn't give a solid example. I just need to decipher it. I didn't get a lot done today otherwise, I ran out of time because I didn't do it during the day.
