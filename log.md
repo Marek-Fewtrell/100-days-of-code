@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 13: January 19th, 2017
+### Day 15: January 21th, 2017
+
+**Today's Progress**: All API calls should have basic error handling stuff.
+
+**Thoughts**: At the moment, the error handling has simply been copy and pasted. This is just to get it all working properly. Once I know what each error needs to do I can hopefully refactor it down into a function.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/affc3b3647aa45fe3c0526efa1cac01cb34a3279).
+
+### Day 14: January 20th, 2017
 
 **Today's Progress**: Continued adding error handling to the API calls.
 
