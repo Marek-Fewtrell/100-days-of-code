@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 22th, 2017
+
+**Today's Progress**: Finalised the file search functionality for Youtube Soundboard.
+
+**Thoughts**: It took some thinking to work out how to properly handle dynamically loading pages of results on demand. It's a first try so it's horrible but I'm glad I could get it working.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/796bdb93bc77fe6d22a9108d804de71a3deff49a).
+
 ### Day 15: January 21th, 2017
 
 **Today's Progress**: All API calls should have basic error handling stuff.
