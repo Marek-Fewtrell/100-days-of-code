@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 23th, 2017
+
+**Today's Progress**: Updated the Youtube Search functionality to have pagination and stopped making unecessary requests.
+
+**Thoughts**: I used work from my previous commit to complete this. Didn't do much today otherwise.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/10296effec3c419c5e691ca6101c2faa8acaddc2).
+
 ### Day 16: January 22th, 2017
 
 **Today's Progress**: Finalised the file search functionality for Youtube Soundboard.
