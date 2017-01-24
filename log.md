@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 18: January 24th, 2017
+
+**Today's Progress**: Started on some better error handling.
+
+**Thoughts**: Started on making better error handling. When API calls fail, they call one major error handling function. So all errors are handled in the one place. We shall see how that will work out. Documentation for the API errors have been a hit and a miss. The Youtube API docs have info about global errors, but nowhere else has it. The Sheets API don't seem to have any error info at all.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/7fdcd888c14ccaa4954612e37375fb4e2919f451).
+
 ### Day 17: January 23th, 2017
 
 **Today's Progress**: Updated the Youtube Search functionality to have pagination and stopped making unecessary requests.
