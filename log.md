@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 25th, 2017
+
+**Today's Progress**: Improved the user interface a little. Display messages/info better.
+
+**Thoughts**: Trying to improve a user interface design is difficult. I believe I improved it. Not much else was accomplished.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/b1e67e13995584ebd5e5b760492d4ceb72dfc6a5).
 
 ### Day 18: January 24th, 2017
 
