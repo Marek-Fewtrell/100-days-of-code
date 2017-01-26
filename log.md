@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 26th, 2017
+
+**Today's Progress**: Consolidated the API error handling into one function for the entire project. This only catches the errors, still need to handle them.
+
+**Thoughts**: According to the reference documnetation for the API's being used, there are a set of global errors that occure. Additionally, there are API specific errors as well. This will be able to handle them all. 
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/0fb2275981c5052ac7db422fd77633faa723f1ca).
+
 ### Day 19: January 25th, 2017
 
 **Today's Progress**: Improved the user interface a little. Display messages/info better.
