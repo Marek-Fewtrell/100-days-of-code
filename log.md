@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 22: January 27th, 2017
+
+**Today's Progress**: Worked on the error stuff again.
+
+**Thoughts**: Improving the design of error display was a bit tedious to get to where it is now. It'll provide a nice way to view any errors.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/074740d39172df601746ce031ed36b7ee9ccdfcd).
+
 ### Day 20: January 26th, 2017
 
 **Today's Progress**: Consolidated the API error handling into one function for the entire project. This only catches the errors, still need to handle them.
