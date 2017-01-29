@@ -1,7 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 29th, 2017
 
-### Day 22: January 27th, 2017
+**Today's Progress**: Got the Youtube Soundboard to an acceptable state. Basically version 1.0
+
+**Thoughts**: It has been long progress but I am happy with the functionality and design of the project. There is much more to be done on it, but that can be done in little steps. I have made it run, now I need to make it right, then make it fast. SOme things to do with it:
+Create a better mobile interface
+Refactor Javascript code (make it better)
+Optimise the API calls to reduce quota use
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/302aaff31e8905981a10cec9197076aeb2028a50).
+
+### Day null: January 28th, 2017
+
+Climbed a mountain again. A different one this time.
+
+### Day 21: January 27th, 2017
 
 **Today's Progress**: Worked on the error stuff again.
 
