@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 30th, 2017
+
+**Today's Progress**: Added comments and documentation to Youtube Soundboard.
+
+**Thoughts**: Comments are very important, I have a habit of being to enthusiastic about getting functionality working to stop and add some necessary comments.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/678deb301f646697e35cb52c819aaa59e9ab415b).
+
 ### Day 22: January 29th, 2017
 
 **Today's Progress**: Got the Youtube Soundboard to an acceptable state. Basically version 1.0
