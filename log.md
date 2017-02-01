@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 1st, 2017
+
+**Today's Progress**: Kept it simple, just did some exercises on FreeCodeCamp.
+
+**Thoughts**: Taking a short break from Youtube Soundboard but also haven't found something else to do. Just brushing up on my skills.
+
+**Link to work**: [Tweet](https://twitter.com/MarekFewtrell/status/826759706173591553).
+
+### Day null: January 31th, 2017
+
+Skipped
+
 ### Day 23: January 30th, 2017
 
 **Today's Progress**: Added comments and documentation to Youtube Soundboard.
