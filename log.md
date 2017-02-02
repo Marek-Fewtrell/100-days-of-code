@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 2nd, 2017
+
+**Today's Progress**: Created a simple tribute page. As seen in the freecodecamp projects.
+
+**Thoughts**: Decided to do a simple tribute page. It was simple.
+
+**Link to work**: [The Tribute Page](http://codepen.io/Marek-Fewtrell/full/ygKqNw/).
+
 ### Day 24: February 1st, 2017
 
 **Today's Progress**: Kept it simple, just did some exercises on FreeCodeCamp.
