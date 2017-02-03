@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 3rd, 2017
+
+**Today's Progress**: Worked on personal portfolio page. As seen in the freecodecamp projects.
+
+**Thoughts**: Had a busy day, the personal portfolio page is simple to work on.
+
+**Link to work**: None.
+
 ### Day 25: February 2nd, 2017
 
 **Today's Progress**: Created a simple tribute page. As seen in the freecodecamp projects.
