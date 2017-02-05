@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 5th, 2017
+
+**Today's Progress**: Powered through like 2/3 of Basic Javascript on Freecodecamp. 
+
+**Thoughts**: I left doing work on this late so that was all I did. I need to plan out some more projects. I have a list. Will do that tomorrow.
+
+**Link to work**: None.
 
 ### Day 27: February 4th, 2017
 
