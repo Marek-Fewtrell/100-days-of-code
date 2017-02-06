@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 6th, 2017
+
+**Today's Progress**: Completed Object Oriented and Functional Programming on Freecodecamp. 
+
+**Thoughts**: Powered through some more. Cemeted my knowledge in this stuff.
+
+**Link to work**: None.
+
 ### Day 28: February 5th, 2017
 
 **Today's Progress**: Powered through like 2/3 of Basic Javascript on Freecodecamp. 
