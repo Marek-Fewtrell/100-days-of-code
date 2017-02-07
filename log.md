@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 30: February 7th, 2017
+
+**Today's Progress**: Basic Algorithm Scripting on Freecodecamp. 
+
+**Thoughts**: Had some fun.
+
+**Link to work**: None.
+
 ### Day 29: February 6th, 2017
 
 **Today's Progress**: Completed Object Oriented and Functional Programming on Freecodecamp. 
