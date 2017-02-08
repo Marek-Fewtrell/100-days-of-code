@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day null: February 8th, 2017
+
+Skipped
 
 ### Day 30: February 7th, 2017
 
