@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 9th, 2017
+
+**Today's Progress**: Have returned to Youtube Sounboard to keep working on it. 
+
+**Thoughts**: Had a nice break from Youtube Soundboard. I have gone back to it now to polish it all up. Started by adding objects to search.js. Only time will tell if what I'm doing is correct.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/94308392d8b6b108ab162b97e7599ca68918667d).
+
 ### Day null: February 8th, 2017
 
 Skipped
