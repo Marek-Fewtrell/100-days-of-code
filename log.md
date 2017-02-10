@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 32: February 10th, 2017
+
+**Today's Progress**: Going through the code for Youtube Soundboard and improving it.
+
+**Thoughts**: Added objects to the rest of the project where applicable.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/f74bc3a46316b4a0bddaf13ba2bc21da93914959).
+
 ### Day 31: February 9th, 2017
 
 **Today's Progress**: Have returned to Youtube Sounboard to keep working on it. 
