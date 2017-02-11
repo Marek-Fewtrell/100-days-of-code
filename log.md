@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 11th, 2017
+
+**Today's Progress**: Planned the improvements for Youtube Soundboard and did a little.
+
+**Thoughts**: More planning than coding, but have a list of improvements to do to Youtube Soundboard. Also started on them.
+
+**Link to work**: None.
 
 ### Day 32: February 10th, 2017
 
