@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 12th, 2017
+
+**Today's Progress**: Improving mobile UI for the better on the Youtube Soundboard.
+
+**Thoughts**: Got some coding done before going out for a busy day and a heatwave. Adding collapsible sections to the webpage and moving the player controls to a static position for easy access.
+
+**Link to work**: None.
+
 ### Day 33: February 11th, 2017
 
 **Today's Progress**: Planned the improvements for Youtube Soundboard and did a little.
