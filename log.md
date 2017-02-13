@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 13th, 2017
+
+**Today's Progress**: Pretty much finished Youtube Soundboard, including updates.
+
+**Thoughts**: Finished the slightly improved UI for mobile. Player and Search sections of the page are now collapsible. Also player controls stick to the bottom of the page after you scroll past them. Making it easier to use. 
+
+**Link to work**: [Github Merge](https://github.com/Marek-Fewtrell/Youtube-Soundboard/commit/953803377a1f674db8017536c9d5656b2e03e8b4).
+
 ### Day 34: February 12th, 2017
 
 **Today's Progress**: Improving mobile UI for the better on the Youtube Soundboard.
