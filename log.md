@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 36: February 14th, 2017
+
+**Today's Progress**: Programmed an Arduino to act as computer media controls.
+
+**Thoughts**: Used an Arduino Leonardo(Pro Micro) to act as a USB device. It has buttons for volume control and media control (play/pause, next, prev). It was all good, until I broke the Micro USB port off because of a rather strong usb cable plugged into it and wouldn't come out easily.
+
+**Link to work**: None.
+
 ### Day 35: February 13th, 2017
 
 **Today's Progress**: Pretty much finished Youtube Soundboard, including updates.
