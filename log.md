@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 15th, 2017
+
+**Today's Progress**: Planned out my next project. It has many names.
+
+**Thoughts**: Had a big day of doing stuff. I relaxed until it was night. I need to update my computer bef0re installing php. I've planned what I call, accountability keeper/scheduler. It originally started as a way to keep track of they days I was productive on.
+
+**Link to work**: None.
 
 ### Day 36: February 14th, 2017
 
