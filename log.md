@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 38: February 16th, 2017
+
+**Today's Progress**: Started with some PHP.
+
+**Thoughts**: Worked on my project. Did some PHP for the first time in a while.
+
+**Link to work**: None.
+
 ### Day 37: February 15th, 2017
 
 **Today's Progress**: Planned out my next project. It has many names.
