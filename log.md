@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 17th, 2017
+
+**Today's Progress**: Implemented a simple login system
+
+**Thoughts**: did a quick overview of php and implemented a simple log in system.
+
+**Link to work**: None.
 
 ### Day 38: February 16th, 2017
 
