@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 18th, 2017
+
+**Today's Progress**: Continued with my project.
+
+**Thoughts**: Haven't used SQL in a while, so some of the more complex queries have taken me a while to work out. A bit of slow progress.
+
+**Link to work**: None.
+
 ### Day 39: February 17th, 2017
 
 **Today's Progress**: Implemented a simple login system
