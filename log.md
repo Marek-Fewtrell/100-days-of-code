@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 19th, 2017
+
+**Today's Progress**: Continued with my project.
+
+**Thoughts**: Slowly adding and working out stuff with my php project.
+
+**Link to work**: None.
+
 ### Day 40: February 18th, 2017
 
 **Today's Progress**: Continued with my project.
