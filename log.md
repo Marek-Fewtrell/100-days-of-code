@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 20th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Created a simple php calender for my project. It is the basis of the project essentially.
+
 ### Day 41: February 19th, 2017
 
 **Today's Progress**: Continued with my project.
