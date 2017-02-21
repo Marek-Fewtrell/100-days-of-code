@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 21th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Expanded the project a bit. Can now select a single day and open up a new page for it. Had to handle some power outages so couldn't do much else tonight.
+
 ### Day 42: February 20th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
