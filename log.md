@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 22th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project. Put it into the Repo.
+
+**Thoughts**: Added a records table to hold what has been done. it outputs what has been done on each day. Added the project files to the github repo.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/258ba4388e3facfd347e0570be868f41d20298bf).
+
 ### Day 43: February 21th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
