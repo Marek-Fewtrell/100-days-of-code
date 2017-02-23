@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 23th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Separated the view stuff from the model stuff. There is an intermediary function which separates it. Also added a form to create new activities on. Not much was done today, wasted the day too much because was tired.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/d30f5f9f740e450665d8cb06e1cefd2ef80f8865).
+
 ### Day 44: February 22th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project. Put it into the Repo.
