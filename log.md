@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 24th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Added CRUD functionality to the activities and schedule pages. Along with the database actions to allow that to happen.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/2fca6152bf5f75b18196be4068d6be3c8f722410).
+
 ### Day 45: February 23th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
