@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 47: February 25th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Added functionality to the day selected from the calendar. It now displays whether any activities need to be done on the day, or counts how many days until the activity is due.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/196ed7078f2351a724ea141dc76eb4827ba51a8d).
+
 ### Day 46: February 24th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
