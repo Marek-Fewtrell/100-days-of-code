@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 48: February 26th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Added functionality to the day selected from the calendar. 
+User can now set whether an activity on that day has been completed or not.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/ef1e8971525776a1786ba6378e57dfa849a1b73b).
+
 ### Day 47: February 25th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
