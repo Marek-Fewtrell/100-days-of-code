@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 49: February 27th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Updated the sql dump with better data. When viewing a day, it will only show activities after the start date has passed. Included a better way to set the date on the schedule page.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/1eed24de7f4408c30516b21400c72eaafb8d91a2).
+
 ### Day 48: February 26th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
