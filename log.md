@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 28th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Did some last little updates before I start on the styling of the site. I have otherwise totally ignored the display side of things.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/4e76d420757045429829c663436692db22017077).
 
 ### Day 49: February 27th, 2017
 
