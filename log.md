@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 50: February 28th, 2017
+### Day 51: March 1st, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
 
