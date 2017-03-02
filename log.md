@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 52: March 2nd, 2017
+
+**Today's Progress**: Continued with my accountability keeper project and styled it.
+
+**Thoughts**: Styled most of the site with bootstrap. The forms, tables and buttons have all been styled. Bootstrap is easy to use. More detailed styling to come later.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/691b383b5645061d60923e46a444d75a660a8d73).
+
 ### Day 51: March 1st, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
