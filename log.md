@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 53: March 3nd, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Updated a couple UI parts to be better, such as the month selectors. Also other stuff.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/daf54c7e396e546d76d0f787da268b08884de991).
+
 ### Day 52: March 2nd, 2017
 
 **Today's Progress**: Continued with my accountability keeper project and styled it.
