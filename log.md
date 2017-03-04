@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 54: March 4nd, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Updated a couple UI parts to be better. Added some coloured status messages for the forms to output. Finished the records output in day.php, it includes weekly items now. Alos restructured userAccount.php to have a better flow for login/create user actions.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/4d5f1b3763b14c605c6ea2ad2f7ca24fdcd4c9a0).
 
 ### Day 53: March 3nd, 2017
 
