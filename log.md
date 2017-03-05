@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 54: March 4nd, 2017
+### Day 55: March 5th, 2017
+
+**Today's Progress**: Continued with my accountability keeper project.
+
+**Thoughts**: Did some minor tweaks and fixes to various UI elements. I'm thinking this project has gotten to an acceptable stage and I can move onto a different project. Not much else was accomplished. I did show it to a friend(Michael) to get his thoughts on it as well.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/a3f2c5e47f4c6350718dabb1c002902a724c5f95).
+
+### Day 54: March 4th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
 
@@ -8,7 +16,7 @@
 
 **Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/4d5f1b3763b14c605c6ea2ad2f7ca24fdcd4c9a0).
 
-### Day 53: March 3nd, 2017
+### Day 53: March 3rd, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
 
