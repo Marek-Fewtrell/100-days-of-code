@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 56: March 6th, 2017
+
+**Today's Progress**: Finalised my accountability keeper project.
+
+**Thoughts**: Mostly cleaned up the project and added helpful comments where necessary. Will now take a break from this project to tinker with something else.
+
+**Link to work**: [Github Commit](https://github.com/Marek-Fewtrell/Accountability-Keeper/commit/79aa36b256fc18de145afdb65020b37837cef7ca).
+
 ### Day 55: March 5th, 2017
 
 **Today's Progress**: Continued with my accountability keeper project.
