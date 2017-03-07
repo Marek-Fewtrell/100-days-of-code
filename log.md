@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 57: March 7th, 2017
+
+**Today's Progress**: Flexed my mind muscles with some Intermediate Algorithm Scripting oon free code camp.
+
+**Thoughts**: It was not a day for being productive. Sharpening up my problem solving skills.
+
+**Link to work**: [Twitter thing](https://twitter.com/MarekFewtrell/status/839099741468139521).
+
 ### Day 56: March 6th, 2017
 
 **Today's Progress**: Finalised my accountability keeper project.
