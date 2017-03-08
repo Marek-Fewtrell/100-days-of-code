@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 58: March 8th, 2017
+
+**Today's Progress**: Continued flexing my mind muscles with some Intermediate Algorithm Scripting oon free code camp.
+
+**Thoughts**: Decided to continue with the problem solving. Will need to figure out some other projects to do eventually.
+
+**Link to work**: [Twitter thing](https://twitter.com/MarekFewtrell/status/839433727394471936).
+
 ### Day 57: March 7th, 2017
 
 **Today's Progress**: Flexed my mind muscles with some Intermediate Algorithm Scripting oon free code camp.
