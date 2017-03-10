@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 10th, 2017
+
+**Today's Progress**: Continued with Advanced Algorithm Scripting on free code camp.
+
+**Thoughts**: It is nice doing problem solving challenges.
+
+**Link to work**: [Twitter thing](https://twitter.com/MarekFewtrell/status/840172880197386240).
+
 ### Day 59: March 9th, 2017
 
 **Today's Progress**: Continued flexing my mind muscles with some Intermediate Algorithm Scripting oon free code camp.
