@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 61: March 11th, 2017
+
+**Today's Progress**: Continued with Advanced Algorithm Scripting on free code camp.
+
+**Thoughts**: not much was solved today but did get a little bit done. Had a busy day doing stuff.
+
+**Link to work**: None.
+
 ### Day 60: March 10th, 2017
 
 **Today's Progress**: Continued with Advanced Algorithm Scripting on free code camp.
