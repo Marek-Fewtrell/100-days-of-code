@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 63: March 13th, 2017
+
+**Today's Progress**: Started the Random Quote Machine challenge on free code camp.
+
+**Thoughts**: Quick little project. Will finish it tomorrow.
+
+**Link to work**: None.
 
 ### Day 62: March 12th, 2017
 
