@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 64: March 14th, 2017
+
+**Today's Progress**: Finished the Random Quote Machine challenge on free code camp.
+
+**Thoughts**: There was some problems with the codepen ide. Like it would stop working randomly. Something about parsing. 
+
+**Link to work**: [CodePen](https://codepen.io/Marek-Fewtrell/pen/MpoeWM).
+
 ### Day 63: March 13th, 2017
 
 **Today's Progress**: Started the Random Quote Machine challenge on free code camp.
