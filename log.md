@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 15th, 2017
+
+**Today's Progress**: Started on the Local Weather challenge.
+
+**Thoughts**: Getting the current location for the user is a lot harder than I thought it would be.
+
+**Link to work**: None.
+
 ### Day 64: March 14th, 2017
 
 **Today's Progress**: Finished the Random Quote Machine challenge on free code camp.
