@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 65: March 15th, 2017
+### Day 66: March 16th, 2017
 
 **Today's Progress**: Finished the Local Weather challenge.
 
