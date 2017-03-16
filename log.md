@@ -2,6 +2,14 @@
 
 ### Day 65: March 15th, 2017
 
+**Today's Progress**: Finished the Local Weather challenge.
+
+**Thoughts**: It was nice and easy using API's.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/pen/OpxLxX).
+
+### Day 65: March 15th, 2017
+
 **Today's Progress**: Started on the Local Weather challenge.
 
 **Thoughts**: Getting the current location for the user is a lot harder than I thought it would be.
