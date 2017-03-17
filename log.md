@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 67: March 17th, 2017
+
+**Today's Progress**: Finished the Wikipedia Viewer challenge.
+
+**Thoughts**: Finished it in one day. I started it in the morning.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/pen/BWmwRy).
+
 ### Day 66: March 16th, 2017
 
 **Today's Progress**: Finished the Local Weather challenge.
