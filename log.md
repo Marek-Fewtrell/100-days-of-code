@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 68: March 18th, 2017
+
+**Today's Progress**: Finished the Twitch JSON API challenge.
+
+**Thoughts**: I found this challenge wasn't very interesting to me. I wasn't motivated by Twitch.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/full/QpaEmQ/).
+
 ### Day 67: March 17th, 2017
 
 **Today's Progress**: Finished the Wikipedia Viewer challenge.
