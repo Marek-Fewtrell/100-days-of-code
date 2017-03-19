@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 69: March 19th, 2017
+
+**Today's Progress**: Currently making a javascript calculator.
+
+**Thoughts**: Most of the way through the calculator. Just need to make it work.
+
+**Link to work**: None.
+
 ### Day 68: March 18th, 2017
 
 **Today's Progress**: Finished the Twitch JSON API challenge.
