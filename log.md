@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 20th, 2017
+
+**Today's Progress**: Finsihed making a javascript calculator.
+
+**Thoughts**: Make the calculator calculate correctly.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/pen/QpaBqq/).
+
 ### Day 69: March 19th, 2017
 
 **Today's Progress**: Currently making a javascript calculator.
