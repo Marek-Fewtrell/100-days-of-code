@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 71: March 21th, 2017
+
+**Today's Progress**: Finsihed Tomodoro Clock challenge.
+
+**Thoughts**: Finished the Pomodoro clock challenge on freecodecamp. It was fun I guess, something differe.t
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/full/RpQERG/).
+
 ### Day 70: March 20th, 2017
 
 **Today's Progress**: Finsihed making a javascript calculator.
