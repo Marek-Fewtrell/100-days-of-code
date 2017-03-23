@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 73: March 23th, 2017
+
+**Today's Progress**: Continued working on the Sun Viewer Project. (project name pending)
+
+**Thoughts**: Been working on the calculations to figure out the position of the sun. It is rather complex and javascript uses radians in the Math rather than degress.
+
+**Link to work**: None.
+
 ### Day 72: March 22th, 2017
 
 **Today's Progress**: Started working on the Sun Viewer Project. (project name pending)
 
 **Thoughts**: This shows where day/night is on the planet. [Example](https://www.timeanddate.com/worldclock/sunearth.html). It is a lot more work than I initially thought mainly because I just started doing it without much planning. Just a matter of working out which calculations to use where and when. Initially thought this would be a matter of figuring out how to display the night/day over an image of the world. That was the easiest part it seems.
 
-**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/full/RpQERG/).
+**Link to work**: None.
 
 ### Day 71: March 21th, 2017
 
