@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 74: March 24th, 2017
+
+**Today's Progress**: Continued working on the Sun Viewer Project. (project name pending)
+
+**Thoughts**: Spent today trying to find the correct calculations. I think I got some of them. I'm going to put this project on the back burner until I can work out the proper calculations to acurately approximate the suns position. Technically didn't do coding today but I still worked on the project so I am counting today.
+
+**Link to work**: None.
+
 ### Day 73: March 23th, 2017
 
 **Today's Progress**: Continued working on the Sun Viewer Project. (project name pending)
