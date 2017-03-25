@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 75: March 25th, 2017
+
+**Today's Progress**: Nearly completed the Tic Tac Toe Game challenge on free code camp
+
+**Thoughts**: Nearly finished it, tried to do with my own logic. It is rather bad.
+
+**Link to work**: None.
+
 ### Day 74: March 24th, 2017
 
 **Today's Progress**: Continued working on the Sun Viewer Project. (project name pending)
