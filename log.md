@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 76: March 26th, 2017
+
+**Today's Progress**: Completed the Tic Tac Toe Game challenge on free code camp
+
+**Thoughts**: Finished it. The computer algorithm could be much better. It is my own design. It's horrible. I wanted to try making one with out using the minimax algorithm that is most used.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/pen/ZejzEM).
+
 ### Day 75: March 25th, 2017
 
 **Today's Progress**: Nearly completed the Tic Tac Toe Game challenge on free code camp
