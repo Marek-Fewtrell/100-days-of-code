@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 77: March 27th, 2017
+
+**Today's Progress**: Started the Simon Game challenge on free code camp
+
+**Thoughts**: Got the UI done for the game. The game part is going to be a little difficult. Mainly to display the sequence to be inputted. Also to record the inputted sequence.
+
+**Link to work**: None.
+
 ### Day 76: March 26th, 2017
 
 **Today's Progress**: Completed the Tic Tac Toe Game challenge on free code camp
