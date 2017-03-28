@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 78: March 28th, 2017
+
+**Today's Progress**: Continued the Simon Game challenge on free code camp
+
+**Thoughts**: Nearly done with this project. Just need to finish up the logic and make it replayable. 
+
+**Link to work**: None.
+
 ### Day 77: March 27th, 2017
 
 **Today's Progress**: Started the Simon Game challenge on free code camp
