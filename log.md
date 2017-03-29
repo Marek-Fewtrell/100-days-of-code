@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 79: March 29th, 2017
+
+**Today's Progress**: Finished the Simon Game challenge on free code camp
+
+**Thoughts**: All done, not exactly pretty but it works. I will eventually return to these previous projects and fix them up a little bit. Additionally, got the Front End Development Certificate from freecodecamp.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/full/aJabyZ).
+
 ### Day 78: March 28th, 2017
 
 **Today's Progress**: Continued the Simon Game challenge on free code camp
