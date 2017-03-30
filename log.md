@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 80: March 30th, 2017
+
+**Today's Progress**: Returned to the sunlight map project.
+
+**Thoughts**: This project won't be very accurate but it has been fun and a little annoying working out the correct calculations to use. Also making them work in javascript was rather annoying.
+
+**Link to work**: None.
+
 ### Day 79: March 29th, 2017
 
 **Today's Progress**: Finished the Simon Game challenge on free code camp
