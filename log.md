@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 81: March 31st, 2017
+
+**Today's Progress**: Continued with the sunlight map project.
+
+**Thoughts**: I got the canvas to display properly, it was being stretched to 100% so everything was fuzzy. I also got the general location of the sun correct in terms of East/West.
+
+**Link to work**: None.
+
 ### Day 80: March 30th, 2017
 
 **Today's Progress**: Returned to the sunlight map project.
