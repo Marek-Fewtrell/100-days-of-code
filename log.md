@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 82: March 1st, 2017
+
+**Today's Progress**: Continued with the sunlight map project.
+
+**Thoughts**: Picked a new map to use so it is better detailed. Easily incorporated it into with minimal fuss. Additionally, got a second sun for when the sunlight needs to wrap around the map. Might need to do something with making a better sunlight/night shape. It should be a sine wave but it's just circles at the moment.
+
+**Link to work**: None.
+
 ### Day 81: March 31st, 2017
 
 **Today's Progress**: Continued with the sunlight map project.
