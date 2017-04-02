@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 83: March 2nd, 2017
+
+**Today's Progress**: Finished with the sunlight map project for now.
+
+**Thoughts**: Did some fixes to it. Some are still present but it's good enough for now. Also tried another way to do the shadows for the day/night of the planet. Nothing solid yet. But I will put it on the back burner and do some other project while I think it through.
+
+**Link to work**: [CodePen](https://codepen.io/Marek-Fewtrell/full/LWddGr/).
+
 ### Day 82: March 1st, 2017
 
 **Today's Progress**: Continued with the sunlight map project.
