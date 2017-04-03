@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 84: March 3rd, 2017
+
+**Today's Progress**: Started making a super simply text based game.
+
+**Thoughts**: It was stuck trying to find something to do. I couldn't find any inspiration to create anything. I settled on a simple text based game to fill the time. Hopefully I will find something beautiful to make soon. I am an artist. The text game will be just a simple thing to move around rooms and thats it.
+
+**Link to work**: None.
+
 ### Day 83: March 2nd, 2017
 
 **Today's Progress**: Finished with the sunlight map project for now.
