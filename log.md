@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 85: March 5th, 2017
+### Day 85: March 4th, 2017
 
 **Today's Progress**: Continued making a super simply text based game.
 
