@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 85: March 5th, 2017
+
+**Today's Progress**: Continued making a super simply text based game.
+
+**Thoughts**: Made the super basic stuff. Like a basic world creation and movement. I think it might be best to change to a different language like python, because javascript is just a little too hard for this purpose. It would be easier in a different language.
+
+**Link to work**: [CodePen](http://codepen.io/Marek-Fewtrell/full/jBdoaO/).
+
 ### Day 84: March 3rd, 2017
 
 **Today's Progress**: Started making a super simply text based game.
