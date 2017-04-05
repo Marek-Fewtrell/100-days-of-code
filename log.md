@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 86: March 5th, 2017
+
+**Today's Progress**: Went over python so I can make the text game in python.
+
+**Thoughts**: It has been a long time since I did pythong. Going over it again to get acquainted with it. To make a nice little text game.
+
+**Link to work**: None.
+
 ### Day 85: March 4th, 2017
 
 **Today's Progress**: Continued making a super simply text based game.
