@@ -2,7 +2,7 @@
 
 ### Day 87: March 6th, 2017
 
-**Today's Progress**: Learnt a chunck of stuff in pythong from codecademy.
+**Today's Progress**: Learnt a chunck of stuff in python from codecademy.
 
 **Thoughts**: Went through a lot, should have enough knowledge to do this game. Worked on it a slight bit, the world has been formed as well. A lot of work ahead still thought.
 
