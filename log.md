@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 87: March 6th, 2017
+
+**Today's Progress**: Learnt a chunck of stuff in pythong from codecademy.
+
+**Thoughts**: Went through a lot, should have enough knowledge to do this game. Worked on it a slight bit, the world has been formed as well. A lot of work ahead still thought.
+
+**Link to work**: None.
+
 ### Day 86: March 5th, 2017
 
 **Today's Progress**: Went over python so I can make the text game in python.
