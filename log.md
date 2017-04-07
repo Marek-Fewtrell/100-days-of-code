@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 88: March 7th, 2017
+
+**Today's Progress**: Got some basics of the text game working
+
+**Thoughts**: Got the absolute basics working it seems. can move and it knows there are different rooms.
+
+**Link to work**: None.
+
 ### Day 87: March 6th, 2017
 
 **Today's Progress**: Learnt a chunck of stuff in python from codecademy.
