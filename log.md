@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 89: March 8th, 2017
+
+**Today's Progress**: COntinued with text game in python.
+
+**Thoughts**: I'm not going to add any enemies into the game. I've decided to make it a puzzle text game.
+
+**Link to work**: None.
+
 ### Day 88: March 7th, 2017
 
 **Today's Progress**: Got some basics of the text game working
