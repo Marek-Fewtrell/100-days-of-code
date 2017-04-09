@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 90: March 9th, 2017
+
+**Today's Progress**: Continued with text game in python.
+
+**Thoughts**: Got a super simple and horribly done puzzle game completed. Only one key and one lock to use it on. But now I can expand from there and add in other stuff.
+
+**Link to work**: None.
+
 ### Day 89: March 8th, 2017
 
 **Today's Progress**: COntinued with text game in python.
