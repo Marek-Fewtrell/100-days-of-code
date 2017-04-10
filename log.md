@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 91: March 10th, 2017
+
+**Today's Progress**: Continued with text game in python.
+
+**Thoughts**: Started the process of making the code better. If I'm going to add more of a puzzle to the game, gonna need to make it better.
+
+**Link to work**: None.
+
 ### Day 90: March 9th, 2017
 
 **Today's Progress**: Continued with text game in python.
