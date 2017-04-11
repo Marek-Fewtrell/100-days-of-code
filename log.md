@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 92: March 11th, 2017
+
+**Today's Progress**: Continued with text game in python.
+
+**Thoughts**: Did a little bit with the UI for the game. A little better with how stuff is presented and done. Ready to move onto the deeper and scarier parts of the code.
+
+**Link to work**: None.
+
 ### Day 91: March 10th, 2017
 
 **Today's Progress**: Continued with text game in python.
