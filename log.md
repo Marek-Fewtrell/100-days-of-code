@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 93 March 12th, 2017
+
+**Today's Progress**: Continued with text game in python.
+
+**Thoughts**: I think I got this mostly done. I think it could be pretty easy to expand the game content with little complications. But still gotta expand on it all. 
+
+**Link to work**: None.
+
 ### Day 92: March 11th, 2017
 
 **Today's Progress**: Continued with text game in python.
