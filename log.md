@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 93 March 12th, 2017
+### Day 94: March 13th, 2017
+
+**Today's Progress**: Finished with text game in python.
+
+**Thoughts**: Added some content for the game. Three keys and three locks. It's horribly basic and simple but it all works it seems.
+
+**Link to work**: None.
+
+### Day 93: March 12th, 2017
 
 **Today's Progress**: Continued with text game in python.
 
