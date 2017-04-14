@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 95: March 14th, 2017
+
+**Today's Progress**: Did some past Google Code Jam Challenges.
+
+**Thoughts**: Couldn't be bothered to find a project to do. Google Code Jam Qualification Round occured recently.
+
+**Link to work**: None.
+
 ### Day 94: March 13th, 2017
 
 **Today's Progress**: Finished with text game in python.
