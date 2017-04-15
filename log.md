@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 96: March 15th, 2017
+
+**Today's Progress**: Continue to do some programming challenges.
+
+**Thoughts**: Doing more problem solving challenges solved with programming.
+
+**Link to work**: None.
+
 ### Day 95: March 14th, 2017
 
 **Today's Progress**: Did some past Google Code Jam Challenges.
