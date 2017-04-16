@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 97: March 16th, 2017
+
+**Today's Progress**: Continue to do some programming challenges.
+
+**Thoughts**: Just did some more random challenges.
+
+**Link to work**: None.
+
 ### Day 96: March 15th, 2017
 
 **Today's Progress**: Continue to do some programming challenges.
