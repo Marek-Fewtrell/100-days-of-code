@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 99: March 18th, 2017
+
+**Today's Progress**: Continue to do some programming challenges and what not.
+
+**Thoughts**: Just did some more miscillenous programming stuff..
+
+**Link to work**: None.
+
 ### Day 98: March 17th, 2017
 
 **Today's Progress**: Continue to do some programming challenges.
