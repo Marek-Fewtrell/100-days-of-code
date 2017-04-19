@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 100: March 19th, 2017
+
+**Today's Progress**: Finished this all up with more coding challeges.
+
+**Thoughts**: Finished 100 days of coding!
+
+**Link to work**: None.
+
 ### Day 99: March 18th, 2017
 
 **Today's Progress**: Continue to do some programming challenges and what not.
